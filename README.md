@@ -13,3 +13,5 @@ The step-by-step process and explanation of data collection and its pre-processi
 Implementation:
 
 The step-by-step implementation and explanation of our poem generator are in the Python Juptyer Notebook file ‘implementation_PoemGenerator.ipynb’.
+
+_____________________________________________________________________________________
